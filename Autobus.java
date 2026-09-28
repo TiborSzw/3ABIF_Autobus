@@ -7,7 +7,10 @@ public class Autobus
     private String kennzeichen;
     private int sitzplatze;
     private boolean anhanger;
-        public Autobus()
+    
+    
+    
+    public Autobus()
     {
         setKennzeichen("W-1234A");
         setSitzplatze(29);
